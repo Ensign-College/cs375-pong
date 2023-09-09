@@ -1,5 +1,6 @@
-# It's Game Time
+# It's Game Time 🎮
 --------------
+Join our discord: [![](https://dcbadge.vercel.app/api/server/CRRh5sBwDp)](https://discord.gg/CRRh5sBwDp)
 
 Your initial assignment for this course is intentionally straightforward to ease you into game programming. Instead of starting from scratch, we'll take the Pong example discussed in 
 class and enhance it by adding logic to control one or both paddles, making it possible to play the game solo. This approach will be typical for problem sets in this course: taking 
